@@ -104,4 +104,4 @@ c) Understanding the problem
 
 ***Answer:*** 
 
-*8*
+*c*
